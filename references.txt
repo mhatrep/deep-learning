@@ -1,1 +1,2 @@
 https://github.com/horovod/horovod
+https://www.machinelearningcourse.io/courses/make-money
